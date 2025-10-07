@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(138, 43, 226);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2,h3{
+    color: #dc143c;
+    line-height: 0;
+}
+p{
+    font-size: 15;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
